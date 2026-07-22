@@ -1,6 +1,3 @@
-Com base em todas as linhas de comando que você validou na prática, estruturei este tutorial didático e bem organizado. Você pode salvar este material como documentação de apoio para seus estudos e futuros projetos.
-
----
 
 # 📖 Tutorial: Configuração e Redefinição de Senha do `root` no MySQL (WampServer)
 
@@ -104,4 +101,4 @@ EXIT;
 ---
 
 > 💡 **Nota de Boas Práticas:**
-> A senha `'123@Mudar'` foi utilizada aqui para fins de ambiente de desenvolvimento local. Em ambientes de produção ou servidores expostos à rede, utilize sempre senhas fortes com alta entropia.
+> A senha `'123@Mudar'` foi utilizada aqui para fins de ambiente de desenvolvimento local. Em ambientes de pr
