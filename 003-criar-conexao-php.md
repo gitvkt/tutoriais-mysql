@@ -1,4 +1,4 @@
-003 — Criando a Conexão Segura com Banco de Dados no PHP (PDO)
+Criando a Conexão Segura com Banco de Dados no PHP (PDO)
 Neste tutorial, você aprenderá a construir do zero o arquivo conexao.php utilizando PDO (PHP Data Objects).
 
 Trataremos de boas práticas de segurança, configuração do modo de erros e, principalmente, como evitar os erros de sintaxe mais comuns na concatenação e chamada de métodos no PHP.
